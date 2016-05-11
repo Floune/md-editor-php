@@ -1,1 +1,2 @@
-# md-editor-php
+* npm install
+* gulp watch
